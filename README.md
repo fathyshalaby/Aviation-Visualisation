@@ -56,8 +56,6 @@ pip install -r requirements.txt
 
 ### 1.2 Lufthansa API Token
 Since the Lufthansa API requires a valid API token and key, it is also required by the application to provide such one.
-For more convenience, such one is provided by us and can be changed in the `app.py` file. We know that it is 
-`NOT RECOMMENDED` to store hardcoded secrets. Be responsible with the usage and `DO NOT SHARE IT WITHOUT EXPLICIT PERMISSION`!
 
 ## 2. Aviation Visualisation 
 
