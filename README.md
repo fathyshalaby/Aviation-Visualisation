@@ -19,14 +19,6 @@ For more information, visit https://developer.lufthansa.com/page.
 2. Aviation Visualisation
 3. References
 
-### Project Members
-
-| **Name**                  | **Matrikelnummer** | **E-Mail**                |
-|---------------------------|--------------------|---------------------------|
-| Benjamin Buzek            | k12005523          | k12005523@students.jku.at |
-| Fathy Shalaby             | k11701175          | k11701175@students.jku.at |
-| Matthias Steinletzberger  | k11771438          | k11771438@students.jku.at |
-
 
 ## 1. Installation
 
